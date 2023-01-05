@@ -41,6 +41,7 @@ nav li{
     font-size: 20px;
     border:0;
     padding:18px 35px;
+    
 }
 /* banner style here */
 .banner{
@@ -144,6 +145,47 @@ border-radius: 5px;
 text-align: center;
 margin-top: 60px;
 
+}
+/* resume container part */
+.resume-container{
+display: flex;
+gap: 24px;
+}
+.education-title{
+    
+}
+.edu-item{
+    font-size: 30px;
+    margin-bottom: 30px;
+    color: #474747;
+}
+
+.experience-title{
+
+
+}
+.title{
+    font-weight: 700;
+font-size: 25px;
+color: #474747;
+margin-bottom: 10px;
+
+}
+.sub-title{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #757575;
+    font-size: 20px;
+}
+.description{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #757575;;
+
+}
+.resume-btn{
+    margin-top: 50px;
+    text-align: center;
 }
 
 
